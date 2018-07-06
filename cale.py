@@ -1,3 +1,4 @@
+#expected probability of LMOA
 import random
 turns = []
 counts = 1
